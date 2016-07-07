@@ -1,0 +1,44 @@
+vi:
+  js:
+    dates:
+      tiny:
+        half_a_minute: "< 1 phút"
+        less_than_x_seconds:
+          one: "< 1 giây"
+        x_seconds:
+          one: "1 giây"
+        less_than_x_minutes:
+          one: "< 1 phút"
+        x_minutes:
+          one: "1 phút"
+        about_x_hours:
+          one: "1 giờ"
+        x_days:
+          one: "1 ngày"
+        about_x_years:
+          one: "1 năm"
+        over_x_years:
+          one: "> 1 năm"
+        almost_x_years:
+          one: "1 năm"
+      medium:
+        x_minutes:
+          one: "1 phút"
+        x_hours:
+          one: "1 giờ"
+        x_days:
+          one: "1 ngày"
+      medium_with_ago:
+        x_minutes:
+          one: "1 phút trước"
+        x_hours:
+          one: "1 giờ trước"
+        x_days:
+          one: "1 ngày trước"
+      later:
+        x_days:
+          one: "còn 1 ngày"
+        x_months:
+          one: "còn 1 tháng"
+        x_years:
+          one: "còn 1 năm"
